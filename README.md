@@ -138,7 +138,25 @@ Sitios en producción que diseñé, desarrollé y publiqué de principio a fin:
 ### 📊 Aportes y estadísticas
 
 - 🔨 Contribuyo en repositorios de equipo como [`Comutel-Peru/Dashboard-Leads`](https://github.com/Comutel-Peru/Dashboard-Leads) y [`ConectaTEC`](https://github.com/jeffersonrojas150/ConectaTEC).
-- 🔒 Gran parte de mi trabajo diario vive en repositorios privados de empresa; la racha de abajo incluye esas contribuciones.
+- 🔒 Gran parte de mi trabajo diario vive en repositorios privados de empresa. Las cifras suman mi cuenta personal y mi cuenta de empresa ([@OrlandoOchoa](https://github.com/OrlandoOchoa)), y se actualizan cada día.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="stats/stats-dark.svg">
+    <img src="stats/stats-light.svg" alt="Contribuciones en GitHub durante el último año" height="190">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="stats/languages-dark.svg">
+    <img src="stats/languages-light.svg" alt="Lenguajes más usados en repos públicos" height="190">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="stats/activity-dark.svg">
+    <img src="stats/activity-light.svg" alt="Contribuciones por semana en el último año" width="100%">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=FabioOC01&hide_border=true&theme=transparent" alt="Racha de contribuciones">
