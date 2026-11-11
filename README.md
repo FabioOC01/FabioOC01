@@ -138,7 +138,7 @@ Sitios en producción que diseñé, desarrollé y publiqué de principio a fin:
 ### 📊 Aportes y estadísticas
 
 - 🔨 Contribuyo en repositorios de equipo como [`Comutel-Peru/Dashboard-Leads`](https://github.com/Comutel-Peru/Dashboard-Leads) y [`ConectaTEC`](https://github.com/jeffersonrojas150/ConectaTEC).
-- 🔒 Gran parte de mi trabajo diario vive en repositorios privados de empresa. Las cifras suman mi cuenta personal y mi cuenta de empresa ([@OrlandoOchoa](https://github.com/OrlandoOchoa)), y se actualizan cada día.
+- 🔒 Gran parte de mi trabajo diario vive en repositorios privados de empresa. Las cifras suman mi cuenta personal y mi cuenta de empresa ([@OrlandoOchoa](https://github.com/OrlandoOchoa)).
 
 <p align="center">
   <picture>
