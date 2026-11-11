@@ -138,16 +138,7 @@ Sitios en producción que diseñé, desarrollé y publiqué de principio a fin:
 ### 📊 Aportes y estadísticas
 
 - 🔨 Contribuyo en repositorios de equipo como [`Comutel-Peru/Dashboard-Leads`](https://github.com/Comutel-Peru/Dashboard-Leads) y [`ConectaTEC`](https://github.com/jeffersonrojas150/ConectaTEC).
-- 🔒 Gran parte de mi trabajo diario vive en repositorios privados de empresa; las tarjetas de abajo incluyen esas contribuciones.
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FabioOC01&theme=github-compact&hide_border=true&area=true" alt="Gráfico de actividad">
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FabioOC01&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Estadísticas de GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioOC01&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Lenguajes más usados">
-</p>
+- 🔒 Gran parte de mi trabajo diario vive en repositorios privados de empresa; la racha de abajo incluye esas contribuciones.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=FabioOC01&hide_border=true&theme=transparent" alt="Racha de contribuciones">
